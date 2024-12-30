@@ -19,23 +19,8 @@ Welcome to my GitHub! I'm a passionate **Python Developer** and **Django Enthusi
 
 ## 💼 Current Focus
 
-- Developing scalable Django applications with RESTful APIs.
+- Developing scalable Django applications.
 - Exploring **machine learning** integration with Django.
 - Building **interactive web interfaces** with front-end technologies (HTML/CSS/JavaScript).
 - Exploring **CI/CD** and cloud deployment (Heroku, AWS).
 - Contributing to open-source Python and Django projects.
-
----
-
-## 🚀 Featured Projects
-
-### 1.To-Do List App (Django)
-A fully-featured to-do list application built with Django. Features include task management, user authentication, task prioritization, and due dates. It uses Django REST Framework to expose a RESTful API for interacting with tasks.
-
-- **Technologies**: Django, PostgreSQL, Bootstrap, Django REST Framework
-- **Key Features**:
-  - User authentication with Django Allauth.
-  - Task management (Add, Edit, Delete).
-  - API to manage tasks.
-  - Email notifications for upcoming due tasks.
-  - Celery for background tasks.
