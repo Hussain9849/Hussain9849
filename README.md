@@ -1,13 +1,10 @@
 # Hi there, I'm Shaik Mahammad Hussain 👋
 
-Welcome to my GitHub! I'm a passionate **Python Developer** and **Django Enthusiast**, specializing in building scalable, high-performance web applications. With a strong foundation in backend development, I thrive in creating robust solutions that improve user experience and drive business growth.
-
----
-
+Welcome to my GitHub! I'm a passionate **Python Developer** and AI-Tools, specializing in building scalable, high-performance applications.
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, C, SQL
-- **Frameworks**: Django, Django REST Framework, Flask (in progress)
+- **Frameworks**: Django
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Front-End**: HTML, CSS,
 - **Version Control**: Git, GitHub
