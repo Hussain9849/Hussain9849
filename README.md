@@ -59,8 +59,8 @@ To work as an **RTL Design/Verification Engineer**, where I can apply my skills 
 ##  Contact
 
 - 📧 Email: mahammadhussainshaik54@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shaik-mahammad-hussain-6aa89a263/)  
-- 🖥️ GitHub: [Your GitHub Profile](https://github.com/Hussain9849/Hussain9849)  
+- 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/shaik-mahammad-hussain-6aa89a263/)  
+- 🖥️ GitHub: [My GitHub](https://github.com/Hussain9849/Hussain9849)  
 
 ---
  Feel free to explore my repositories for RTL and Verification projects. Contributions, suggestions, and discussions are always welcome!
